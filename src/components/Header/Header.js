@@ -5,8 +5,17 @@ import logo from "../../images/logo.png";
 import "./Header.css";
 
 import firebase from "firebase/app";
+import "firebase/auth";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
+import firebaseConfig from "../Login/firebase.config";
+
+const firebaseInitializer = () => {
+  if (!firebase.apps.length) {
+    firebase.initializeApp(firebaseConfig);
+  }
+};
+firebaseInitializer();
 
 const Header = () => {
   const [loggedUserData, setLoggedUserData] = useContext(UserContext);
