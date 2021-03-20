@@ -6,8 +6,7 @@ It is a single page application made with react and react-router.And for authent
 
 ### `Live Link`
 
-Firebase Hosting: [TripWell Firebase](https://tripwell.web.app)
-Netlify Hosting:[TripWell Netlify](https://tripwell.netlify.app)
+Firebase Hosting: [TripWell Firebase](https://tripwell.web.app) || Netlify Hosting:[TripWell Netlify](https://tripwell.netlify.app)
 
 ### `Contact Me`
 
