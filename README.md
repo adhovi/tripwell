@@ -6,7 +6,8 @@ It is a single page application made with react and react-router.And for authent
 
 ### `Live Link`
 
-See Code: [TripWell](https://github.com/Porgramming-Hero-web-course/react-router-adhovi/edit/main/README.md)
+Firebase Hosting: [TripWell Firebase](https://tripwell.web.app)
+Netlify Hosting:[TripWell Netlify](https://tripwell.netlify.app)
 
 ### `Contact Me`
 
