@@ -1,0 +1,37 @@
+.my-card {
+  height: 300px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.1);
+  box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.2);
+  border-top: 1px solid rgba(255, 255, 255, 0.3);
+  border-left: 1px solid rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(15px);
+  transition: 0.3s;
+  text-align: center;
+  text-decoration: none;
+}
+.my-card:hover {
+  height: 300px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.2);
+  box-shadow: 30px 30px 50px rgba(0, 0, 0, 0.2);
+}
+.my-card img {
+  width: 50%;
+  margin: 0px auto;
+}
+.my-footer {
+  margin: 35px auto 0px;
+  font-size: 1.5rem;
+  /* background-color: #ff6e40; */
+  border-radius: 7px;
+  color: white;
+  padding: 7px 30px;
+  transition: 0.3s;
+  text-decoration: none;
+  outline: none;
+  border: none;
+}
+.link {
+  text-decoration: none;
+}

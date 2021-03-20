@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "image": "https://res.cloudinary.com/adhovi/image/upload/v1616096528/Vehicles/bike_mwfnkh.png" ,
+    "type": "Bike",
+    "vehicle": [
+      {
+        "id": 1001,
+        "price": 15,
+        "seat": 4
+      },
+      {
+        "id": 1002,
+        "price": 24,
+        "seat": 2
+      },
+      {
+        "id": 1003,
+        "price": 19,
+        "seat": 3
+      },
+      {
+        "id": 1004,
+        "price": 12,
+        "seat": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://res.cloudinary.com/adhovi/image/upload/v1616096528/Vehicles/car_saxxn0.png" ,
+    "type": "Car",
+    "vehicle": [
+      {
+        "id": 1005,
+        "price": 25,
+        "seat": 4
+      },
+      {
+        "id": 1006,
+        "price": 34,
+        "seat": 5
+      },
+      {
+        "id": 1007,
+        "price": 29,
+        "seat": 7
+      },
+      {
+        "id": 1008,
+        "price": 22,
+        "seat": 3
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://res.cloudinary.com/adhovi/image/upload/v1616096528/Vehicles/bus_cogfgj.png" ,
+    "type": "Bus",
+    "vehicle": [
+      {
+        "id": 1009,
+        "price": 14,
+        "seat": 24
+      },
+      {
+        "id": 1010,
+        "price": 17,
+        "seat": 13
+      },
+      {
+        "id": 1011,
+        "price": 13,
+        "seat": 29
+      },
+      {
+        "id": 1012,
+        "price": 19,
+        "seat": 20
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://res.cloudinary.com/adhovi/image/upload/v1616096528/Vehicles/train_tdnlw8.png" ,
+    "type": "Train",
+    "vehicle": [
+      {
+        "id": 1013,
+        "price": 12,
+        "seat": 82
+      },
+      {
+        "id": 1014,
+        "price": 16,
+        "seat": 46
+      },
+      {
+        "id": 1015,
+        "price": 11,
+        "seat": 65
+      },
+      {
+        "id": 1016,
+        "price": 19,
+        "seat": 79
+      }
+    ]
+  }
+]

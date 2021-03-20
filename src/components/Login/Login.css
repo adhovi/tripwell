@@ -1,0 +1,35 @@
+.mini-btn {
+  background: none;
+  color: none;
+  outline: none;
+  border: none;
+  color: #ff6e40;
+  font-size: 1rem;
+  font-weight: 500;
+}
+.mini-btn:hover {
+  color: #eb3c06;
+}
+.my-btn-google {
+  color: white;
+  background-color: #2ea81c !important;
+  border-radius: 5px;
+  border: none;
+}
+.my-btn-facebook {
+  color: white;
+  background-color: #3a5999 !important;
+  border-radius: 5px;
+  border: none;
+}
+.icon {
+  font-size: 1.5rem;
+}
+.error {
+  color: rgb(255, 191, 191);
+  font-weight: light;
+}
+.success {
+  color: greenyellow;
+  font-weight: light;
+}

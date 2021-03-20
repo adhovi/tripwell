@@ -1,0 +1,17 @@
+.vehicle-card {
+  background: rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(15px);
+  width: 100%;
+  padding: 15px 30px;
+  border-radius: 15px;
+}
+.vehicle-img img {
+  width: 5rem;
+}
+.vehicle-card p {
+  font-size: 1.1rem;
+  margin-bottom: 0;
+}
+.people-icon {
+  width: 1rem;
+}

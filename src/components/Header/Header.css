@@ -1,0 +1,40 @@
+.my-nav {
+  background: rgba(255, 255, 255, 0.1);
+  margin-bottom: 10px;
+}
+.my-nav img {
+  width: 90%;
+}
+
+.my-nav li a {
+  font-size: 16px;
+  font-weight: 400;
+  color: white;
+}
+
+.my-nav li {
+  margin: 0 7px;
+}
+.my-nav li a:hover {
+  color: #ff6e40;
+}
+.my-btn {
+  background-color: #ff6e40;
+  border-radius: 5px;
+  padding: 7px 25px;
+  transition: 0.5s;
+}
+.my-btn:hover {
+  color: white !important;
+  background-color: #ff6e40;
+  border-radius: 10px;
+}
+.bar-icon {
+  color: white;
+  font-size: 24px;
+}
+.icon-btn {
+  background-color: rgba(75, 22, 92, 0.658);
+  outline: white;
+  border: white;
+}
